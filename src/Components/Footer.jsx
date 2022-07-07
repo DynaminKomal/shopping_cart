@@ -6,7 +6,7 @@ function Footer() {
         <Row>
             <Col className='text-center' md={12}>
                 <span className='text-center'>
-                    Copyright
+                    Copyright 2022
                 </span>
             </Col>
         </Row>
